@@ -4,3 +4,6 @@ bases:
   - ../../base/
 
 nameSuffix: -apac
+
+patches:
+  - deployment.yaml
