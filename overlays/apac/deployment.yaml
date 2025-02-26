@@ -7,5 +7,5 @@ spec:
     spec:
       containers:
       - name: cluster-mysql 
-        image: registry.redhat.io/rhel8/mysql-80:152
+        image: registry.redhat.io/rhel8/mysql-80:1-152
 
